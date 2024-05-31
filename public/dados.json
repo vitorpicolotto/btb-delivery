@@ -1,0 +1,30 @@
+{
+    "locais":[
+            {
+                "id": "1",
+                "destinatario": "SpaceX",
+                "tipo": "Armazenamento",
+                "planeta": "Terra",
+                "lote": 1000,
+                "cep": 88101030,
+                "rua": "Vereador Walter Borges",
+                "numero": 230,
+                "cidade": "São José",
+                "estado": "Santa Catarina", 
+                "pais": "Brasil"
+            },
+            {
+                "id": "2",
+                "destinatario": "Cervejaria Interplanetária",
+                "tipo": "Fábrica",
+                "planeta": "Marte",
+                "lote": 5121,
+                "cep": 1000000,
+                "rua": "Não consta",
+                "numero": 0,
+                "cidade": "Não consta",
+                "estado": "Não consta",
+                "pais": "Não consta"
+        }
+    ]
+}

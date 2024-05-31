@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300..700&family=Orbitron:wght@400..900&display=swap');
+
+:root{
+    --cor-fundo: #000000;
+    --cor-texto: #fcbf49;
+    --cor-secundaria-escura: #14213d;
+    --cor-box: #e5e5e5;
+    --branco: #ffffff;
+    --fonte-principal:"Orbitron", sans-serif;
+    --fonte-secundaria: "Jura", sans-serif;
+
+}
+
+*{
+    font-family: var(--fonte-secundaria);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+}
+

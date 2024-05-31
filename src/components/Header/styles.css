@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    height: 5vh;
+    padding: 1.5em;
+    font-size: 1.3em;
+}
+
+.header-navigate{
+    display: flex;
+    justify-content: space-around;
+    gap: 5rem;
+}
+
+.header-link{
+    text-decoration: none;
+}

@@ -1,0 +1,24 @@
+.main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10em;
+    text-align: center;
+}
+
+.main-titulo{
+    font-size: 3em;
+    margin-bottom: 2em;
+}
+
+.main-apresentacao{
+    font-size: 1.5em;
+    margin: 0 5em;
+    
+}
+
+.main-texto{
+    font-size: 1.3em;
+    margin: 2em 7em 0 7em
+    
+}

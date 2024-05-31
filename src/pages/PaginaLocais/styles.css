@@ -1,0 +1,6 @@
+.locais-titulo{
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+    font-size: 3em;
+}
